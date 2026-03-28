@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "LLM Semantic Representation"
+authors:
+  - family-names: Kashani
+    given-names: Idan
+  - family-names: Mendelson
+    given-names: Avi
+  - family-names: Nemcovsky
+    given-names: Yaniv
+repository-code: "https://github.com/idankdev/llm_semantic_representation"
+preferred-citation:
+  type: conference-paper
+  title: "Representing LLMs in Prompt Semantic Task Space"
+  authors:
+    - family-names: Kashani
+      given-names: Idan
+    - family-names: Mendelson
+      given-names: Avi
+    - family-names: Nemcovsky
+      given-names: Yaniv
+  booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2025"
+  year: 2025
+  month: 11
+  publisher:
+    name: "Association for Computational Linguistics"
+  address: "Suzhou, China"
+  doi: "10.18653/v1/2025.findings-emnlp.456"
+  url: "https://aclanthology.org/2025.findings-emnlp.456/"
+  pages: "8578-8597"
+  isbn: "979-8-89176-335-7"
